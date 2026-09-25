@@ -1,0 +1,10 @@
+{
+    "id": "org.charlyx86.visuales",
+    "version": "1.0.0",
+    "name": "Mis Visuales",
+    "description": "Addon de visuales de Badger",
+    "resources": ["stream"],
+    "types": ["movie", "series"],
+    "idPrefixes": ["tt"],
+    "catalogs": []
+}
